@@ -1,4 +1,5 @@
 import Gallery from "./Gallery";
+import Scientists from "./Scientists";
 import Sum from "./Sum";
 import User from "./User";
 
@@ -8,6 +9,7 @@ function App() {
       <Sum />
       <Gallery />
       <User />
+      <Scientists />
     </>
   );
 }
