@@ -6,9 +6,6 @@ export default function Gallery() {
       <h1>This is the gallery part</h1>
       <Profile></Profile>
       <Profile></Profile>
-      <Profile></Profile>
-      <Profile></Profile>
-      <Profile></Profile>
     </>
   );
 }
