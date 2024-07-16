@@ -1,7 +1,9 @@
+import Gallery from "./Gallery";
+
 function App() {
   return (
     <>
-      <div>Hello World</div>
+      <Gallery />
     </>
   );
 }
