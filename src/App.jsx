@@ -1,5 +1,6 @@
 import Gallery from "./Gallery";
 import People from "./People";
+import Poem from "./Poem";
 import Recipe from "./Recipe";
 import Scientists from "./Scientists";
 import Sum from "./Sum";
@@ -14,6 +15,7 @@ function App() {
       <Scientists />
       <People />
       <Recipe />
+      <Poem />
     </>
   );
 }
